@@ -1,1 +1,2 @@
 "Iniciando novo arquivo2" 
+outra mensagem alteraada
